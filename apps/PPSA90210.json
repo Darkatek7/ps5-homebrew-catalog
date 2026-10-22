@@ -6,9 +6,9 @@
   "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
   "license": "GPL-3.0",
   "author": "Darkatek7",
-  "version": "01.000.016",
+  "version": "01.000.017",
   "source_repo": "https://github.com/Darkatek7/ProsperoThemes",
-  "artifact_url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.016/PPSA90210.zip",
-  "sha256": "692fb5b541d1db263e47e56d564460f08862daea4ce68b79353a49819b85bfc1",
-  "icon_url": "https://raw.githubusercontent.com/Darkatek7/ProsperoThemes/01.000.016/ThemeApp/sce_sys/icon0.png"
+  "artifact_url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.017/PPSA90210.zip",
+  "sha256": "640ad8283f4ab90039cb6b00308b5f33fe867ab93a0d82da206d25413a22ab02",
+  "icon_url": "https://raw.githubusercontent.com/Darkatek7/ProsperoThemes/01.000.017/ThemeApp/sce_sys/icon0.png"
 }
