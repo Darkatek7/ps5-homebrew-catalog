@@ -6,9 +6,9 @@
   "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
   "license": "GPL-3.0",
   "author": "Darkatek7",
-  "version": "0.9.9",
+  "version": "0.9.10",
   "source_repo": "https://github.com/Darkatek7/PS5SD",
-  "artifact_url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.9/PPSA99576.zip",
-  "sha256": "0f229e9a561b581633ad97b6d3dad37f636b4267ccb36a345b9860751e74ec1b",
-  "icon_url": "https://raw.githubusercontent.com/Darkatek7/PS5SD/v0.9.9/ps5/app/sce_sys/icon0.png"
+  "artifact_url": "https://github.com/Darkatek7/PS5SD/releases/download/v0.9.10/PPSA99576.zip",
+  "sha256": "f2101e729972871145b801f2d7e6382a8bb1ac4eae14838d0ce1796a0580731b",
+  "icon_url": "https://raw.githubusercontent.com/Darkatek7/PS5SD/v0.9.10/ps5/app/sce_sys/icon0.png"
 }
