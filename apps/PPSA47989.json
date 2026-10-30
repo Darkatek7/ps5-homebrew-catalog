@@ -3,7 +3,7 @@
   "name": "ProsperoSunshine",
   "kind": "app",
   "category": "streaming",
-  "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Firmware 13.00 only.",
+  "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00; other versions untested.",
   "license": "GPL-3.0",
   "author": "Darkatek7",
   "version": "0.1.0",
